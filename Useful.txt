@@ -1,3 +1,8 @@
+
+
+
+Steps takes:
+
 https://docs.google.com/spreadsheets/d/1jjReQICg2i1SWE0RNU2wovd_f6hQUUpG/edit#gid=556634622
 
 export?format=xlsx
@@ -5,3 +10,11 @@ export?format=xlsx
 Import from web:
 
 https://docs.google.com/spreadsheets/d/1jjReQICg2i1SWE0RNU2wovd_f6hQUUpG/export?format=xlsx
+
+● Delivery Date = ([Ship Date] - [Order Date])
+
+● Changed Sales Format to Currency (Euro)
+
+● Create Year coloumn from Ordered Date
+
+● Created Returned Orders Conditional coloumn
