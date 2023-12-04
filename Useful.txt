@@ -18,3 +18,6 @@ https://docs.google.com/spreadsheets/d/1jjReQICg2i1SWE0RNU2wovd_f6hQUUpG/export?
 ● Create Year coloumn from Ordered Date
 
 ● Created Returned Orders Conditional coloumn
+
+●  Created new table to Summarize Sales per day
+  Salesforcast = SUMMARIZE(Orders, Orders[Order Date], "Total Sales", SUM(Orders[Sales]))
