@@ -3,6 +3,7 @@
 ## Overview
 This project presents a comprehensive Power BI dashboard for analyzing the sales data of a superstore. The dashboard focuses on key performance indicators (KPIs) and visualizations that provide insights into sales trends, product performance, customer behavior, and regional sales distribution.
 - [Link to the Dashboard](https://shorturl.at/lHX06)
+- ![Animated GIF](https://github.com/saad415/Superstore/blob/main/ezgif.com-video-to-gif.gif)
 
 ## Technical Implementation
 - **Data Source**: The dashboard utilizes the Superstore dataset, imported and integrated into Power BI for analysis.
